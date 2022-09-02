@@ -9,15 +9,18 @@
 - Product
 - ProductCategory
 - ProductModel
+- ProductDescription
+- ProductModelProductDescription
 - SalesOrderDetail
 - SalesOrderHeader
 
-**Does not include these tables:**
-- ProductDescription
-- ProductModelProductDescription
-
 ## Download:
 AdventureWorks-sqlite.db
+
+## How to Build
+1. Install "SQLite" on windows
+2. Edit the file CreateAdventureWorks.cmd, and change the path to "SQLite"
+3. Run the file CreateAdventureWorks.cmd
 
 ## Note this is a fork from:
 https://github.com/nuitsjp/AdventureWorks-for-SQLite
