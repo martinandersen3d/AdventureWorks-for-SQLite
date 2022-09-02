@@ -1,4 +1,4 @@
-# AdventureWorks-for-SQLite
+# AdventureWorks for SQLite
 
 **This database inludes the following tables:**
 - BuildVersion
